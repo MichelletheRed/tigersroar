@@ -1,7 +1,7 @@
 ## Here's my header
 
 * bullet 1
-* bullet 2
+* bullet 3
 
 This is *italics* and **bold**
 
